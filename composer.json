@@ -1,5 +1,5 @@
 {
-  "name": "chasegiunta/craft-vue-tailwind",
+  "name": "simplygoodwork/start",
   "description": "Craft CMS + Vue.js + TailwindCSS Boilerplate",
   "keywords": [
     "craft",
@@ -16,8 +16,8 @@
   "homepage": "https://craftcms.com/",
   "type": "project",
   "support": {
-    "email": "me@chasegiunta.com",
-    "issues": "https://github.com/chasegiunta/craft-vue-tailwind/issues"
+    "email": "dev@simplygoodwork.com",
+    "issues": "https://github.com/simplygoodwork/start/issues"
   },
   "require": {
     "craftcms/cms": "^3.0.0",
